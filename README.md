@@ -1,5 +1,5 @@
 # Finance-Analytics-Portfolio
-My portfolio of Excel, Power BI,Tableau and Other projects for finance and analytics.
+My portfolio of Excel, Power BI,Tableau and SQL projects for finance and analytics.
 <p align="center">
   <a href="https://www.linkedin.com/in/abdalmalik-sabri-fmva-cfm-23a656254" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
