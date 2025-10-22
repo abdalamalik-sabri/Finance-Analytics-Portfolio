@@ -14,7 +14,3 @@ My portfolio of Excel, Power BI,Tableau and Other projects for finance and analy
   🎓 Finance Student at the University of Jordan | 💼 Aspiring Financial Analyst | 📊 Power BI · Excel · SQL · Tableau
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/abdalmalik-sabri?label=Follow&style=social" alt="GitHub followers badge"/>
-</p>
-
