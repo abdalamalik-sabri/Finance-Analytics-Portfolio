@@ -43,3 +43,6 @@ Aspiring Financial Analyst | CFM® | FMVA® | BIDA®
 [👉 View the Full Model PDF](./Orange_Jordan1.PDF)
 
 
+[👉 View the Full Model PDF](./Excel_Projects/Orange_Jordan1.PDF)
+
+
