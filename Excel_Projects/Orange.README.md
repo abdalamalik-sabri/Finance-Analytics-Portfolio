@@ -4,8 +4,8 @@ A professional Excel-based **3-statement financial model** and **dashboard** bui
 
 ---
 
-## 📄 Full Report (PDF)
-👉 [View or Download the Full Model](./Orange_Jordan1.PDF)
+[👉 View or Download the Full Model (PDF)](https://github.com/abdalamalik-sabri/Finance-Analytics-Portfolio/blob/main/Excel_Projects/Orange_Jordan1.PDF)
+
 
 ---
 
@@ -15,15 +15,6 @@ A professional Excel-based **3-statement financial model** and **dashboard** bui
 - **Drivers:** Revenue growth, margins, CAPEX, working capital, payout ratio
 - **Outputs:** Free cash flow, retained earnings, WACC-based valuation scenarios
 - **Dashboard:** Visualized KPIs and sensitivity analysis for decision support
-
----
-
-## 📁 Files Included
-| File | Description |
-|------|--------------|
-| `Orange_Jordan1.PDF` | Final 3-statement model presentation |
-| `Orange_3Statement_Model.xlsx` | Excel model with linked statements and assumptions |
-| `README.md` | Project overview and documentation |
 
 ---
 
@@ -39,10 +30,5 @@ A professional Excel-based **3-statement financial model** and **dashboard** bui
 **Abdalmalik Sabri**  
 Finance Student – University of Jordan  
 Aspiring Financial Analyst | CFM® | FMVA® | BIDA®  
-
-[👉 View the Full Model PDF](./Orange_Jordan1.PDF)
-
-
-[👉 View the Full Model PDF](./Excel_Projects/Orange_Jordan1.PDF)
 
 
