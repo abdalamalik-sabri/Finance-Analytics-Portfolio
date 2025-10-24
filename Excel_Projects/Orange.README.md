@@ -4,7 +4,8 @@ A professional Excel-based **3-statement financial model** and **dashboard** bui
 
 ---
 
-[👉 View or Download the Full Model (PDF)](https://github.com/abdalamalik-sabri/Finance-Analytics-Portfolio/blob/main/Excel_Projects/Orange_Jordan1.PDF)
+[👉 View or Download the Full Model (PDF)](./Excel_Projects/Orange_Jordan1.PDF)
+
 
 
 ---
