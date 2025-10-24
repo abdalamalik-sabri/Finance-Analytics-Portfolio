@@ -1,27 +1,42 @@
-# 📊 Orange Jordan – 3-Statement Financial Model (Excel)
+# 📊 Orange Jordan – 3-Statement Financial Model
 
-**Scope:** 2022–2024 actuals, 5-year forecast.  
-**Deliverables:** Linked IS/BS/CFS, working-capital schedule (AR/AP/Inv), CapEx & Intangibles, and an executive dashboard.  
-**Units:** JOD ’000.
+A professional Excel-based **3-statement financial model** and **dashboard** built for *Orange Jordan*, summarizing financial performance, forecasts, and valuation insights.
 
-## 📄 Full PDF (Presentation)
-[👉 Open the PDF](./docs/Orange_Jordan_Model.pdf)
+---
+
+## 📄 Full Report (PDF)
+👉 [View or Download the Full Model](./Orange_Jordan1.PDF)
 
 ---
 
 ## 🧠 Overview
-- **Statements:** Fully linked **Income Statement**, **Balance Sheet**, **Cash Flow**
-- **Forecast horizon:** 5 years with driver-based assumptions
-- **Key drivers:** Revenue growth, EBIT margin, tax rate, CapEx, payout, WC days (AR/Inv/AP)
-- **Outputs:** CFO/CFI/CFF, FCF, common dividends, key ratios & trends
-- **Dashboard:** Revenue & margin trends, cash-flow bridge, ratio highlights
+- **Statements:** Integrated **Income Statement**, **Balance Sheet**, and **Cash Flow**
+- **Forecast horizon:** 5 years (2025–2029)
+- **Drivers:** Revenue growth, margins, CAPEX, working capital, payout ratio
+- **Outputs:** Free cash flow, retained earnings, WACC-based valuation scenarios
+- **Dashboard:** Visualized KPIs and sensitivity analysis for decision support
 
-# 📊 Orange Jordan – 3-Statement Financial Model
+---
 
-[![Open the PDF](./docs/cover_thumbnail.png)](./docs/Orange_Jordan_Model.pdf)
+## 📁 Files Included
+| File | Description |
+|------|--------------|
+| `Orange_Jordan1.PDF` | Final 3-statement model presentation |
+| `Orange_3Statement_Model.xlsx` | Excel model with linked statements and assumptions |
+| `README.md` | Project overview and documentation |
 
-**Scope:** 2022–2024 actuals, 5-year forecast  
-**Includes:** Linked IS/BS/CFS • WC schedule • CapEx/Intangibles • Dashboard
+---
 
-**PDF:** [Open the full presentation](./docs/Orange_Jordan_Model.pdf)
+## 🧩 Tools & Skills Applied
+- **Excel Modeling:** Dynamic formulas, linking IS-BS-CF  
+- **Forecasting:** Driver-based projections and moving-average assumptions  
+- **Valuation:** DCF approach with WACC and terminal growth scenarios  
+- **Visualization:** Dashboard design with KPI charts  
+
+---
+
+## 🧾 Author
+**Abdalmalik Sabri**  
+Finance Student – University of Jordan  
+Aspiring Financial Analyst | CFM® | FMVA® | BIDA®  
 
