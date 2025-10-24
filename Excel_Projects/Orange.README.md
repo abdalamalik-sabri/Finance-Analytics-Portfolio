@@ -40,3 +40,6 @@ A professional Excel-based **3-statement financial model** and **dashboard** bui
 Finance Student – University of Jordan  
 Aspiring Financial Analyst | CFM® | FMVA® | BIDA®  
 
+[👉 View the Full Model PDF](./Orange_Jordan1.PDF)
+
+
