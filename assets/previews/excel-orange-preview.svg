@@ -1,0 +1,20 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1b4332" />
+      <stop offset="100%" stop-color="#2d6a4f" />
+    </linearGradient>
+    <style>
+      .title { font: 600 60px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #fefae0; }
+      .subtitle { font: 400 34px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #d8f3dc; }
+      .footer { font: 400 30px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #ffd166; }
+    </style>
+  </defs>
+  <rect width="1200" height="675" rx="28" fill="url(#bg)" />
+  <rect x="70" y="70" width="1060" height="535" rx="26" fill="none" stroke="#52b788" stroke-width="4" />
+  <text x="120" y="170" class="title">Excel · Orange Jordan 3-Statement Model</text>
+  <text x="120" y="260" class="subtitle">• Integrated IS, BS, CF with driver-based assumptions</text>
+  <text x="120" y="320" class="subtitle">• Scenario toggles for CAPEX, dividends, and churn</text>
+  <text x="120" y="380" class="subtitle">• Dashboard surfaces growth, margins, and cash KPIs</text>
+  <text x="120" y="470" class="footer">Dynamic Excel modeling · Sensitivity analysis · KPI design</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1f33" />
+      <stop offset="100%" stop-color="#112d4e" />
+    </linearGradient>
+    <style>
+      .title { font: 600 60px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #f8fafc; }
+      .subtitle { font: 400 34px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #a5f3fc; }
+      .footer { font: 400 30px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #facc15; }
+    </style>
+  </defs>
+  <rect width="1200" height="675" rx="28" fill="url(#bg)" />
+  <rect x="70" y="70" width="1060" height="535" rx="26" fill="none" stroke="#4fd1c5" stroke-width="4" />
+  <text x="120" y="170" class="title">Power BI · Revenue Opportunities</text>
+  <text x="120" y="260" class="subtitle">• Pipeline drilldowns by region, partner tier, and stage</text>
+  <text x="120" y="320" class="subtitle">• DAX-driven KPIs spotlight $483M in potential bookings</text>
+  <text x="120" y="380" class="subtitle">• Interactive slicers uncover whitespace accounts</text>
+  <text x="120" y="470" class="footer">Built with Power Query · DAX · Data modeling</text>
+</svg>
