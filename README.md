@@ -68,6 +68,15 @@ I’m passionate about blending finance fundamentals with modern analytics to an
 3. **Reuse components** like SQL snippets, DAX measures, or model templates in your own environment—attribution appreciated!
 4. **Let’s connect** if you’d like a walkthrough or need help tailoring a dashboard/model to your use case.
 
+## 🧪 How to Run the Portfolio Locally
+
+| Artifact Type | What You Need | Steps |
+| --- | --- | --- |
+| **Excel models** | Microsoft Excel (2019+) or Excel Online | Download the workbook from `Excel_Projects/`, open it in Excel, and enable external links/macros if prompted. Follow the “Instructions” tab inside each file to refresh assumptions or scenarios. |
+| **Power BI dashboards** | Power BI Desktop (latest version) | Download the `.pbix` file from `PowerBI_Projects/`, open it in Power BI Desktop, and, when prompted, point any data connections to your local copy of the source data listed in the README. Refresh to recalc visuals. |
+| **Tableau stories** | Web browser or Tableau Desktop | Use the Tableau Public link in `Tableau_Projects/README.md` to view the live dashboard in a browser. To customize, download the `.twbx` from the same folder and open in Tableau Desktop 2021.4+. |
+| **SQL analytics** | PostgreSQL (13+), Snowflake, or SQL Server | Create a database with the schema described in [`SQL_Projects.md`](SQL_Projects.md), load your `sales_data` table, then copy/paste the provided queries into your SQL IDE. Sample `psql` commands are included in that file under “How to Run.” |
+
 > 💬 Have feedback or a collaboration idea? Reach out on <a href="https://www.linkedin.com/in/abdalmalik-sabri-fmva-cfm-23a656254" target="_blank">LinkedIn</a> or <a href="mailto:aboodsabri2004@gmail.com">email</a> me directly.
 
 ---

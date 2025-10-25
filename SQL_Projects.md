@@ -33,9 +33,15 @@ sales_data (
 Use the declining-customer query to trigger retention campaigns, the product profitability query to inform assortment decisions, and the monthly trend query to manage revenue pacing against targets.
 
 ## ▶️ How to Run
-1. Create a staging database (PostgreSQL, Snowflake, or SQL Server) and load your `sales_data` fact table.
-2. Copy the queries below into your SQL IDE and replace table names if needed.
-3. Schedule the relevant queries as part of a BI refresh or reporting automation pipeline.
+1. **Create the schema.** In PostgreSQL, run:
+   ```bash
+   createdb sales_analytics
+   psql -d sales_analytics -c "CREATE TABLE sales_data (order_id SERIAL, order_date DATE, region TEXT, customer_id TEXT, product_name TEXT, sales_amount NUMERIC, cost_amount NUMERIC, profit_margin NUMERIC);"
+   ```
+   Replace with analogous steps in Snowflake or SQL Server if preferred.
+2. **Load your data.** Use `\\COPY` (PostgreSQL) or your warehouse’s loader to import a CSV extract of your CRM/ERP sales fact table into `sales_data`.
+3. **Run the queries.** Paste the SQL below into your IDE or CLI (e.g., `psql`, Azure Data Studio) to generate the reports.
+4. **Operationalize.** Schedule the relevant queries as part of a BI refresh or reporting automation pipeline.
 
 ---
 
